@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6qwhWm0xVks0MD4b2DVQiws9TBTMS//+OceRS20jqsoh/j/joIlnqsq5yfBzQ/1F22S1r+z9TP1FnImOuE/6yQ==",
+  "dgSpecHash": "LEKhh09l5425GdY025XgXGXUKCRoGZoEwnykufAinJRfKVdgQQTy7XwcsGzPO2wkvzW5QYWrsb5049z6zFDCjA==",
   "success": true,
   "projectFilePath": "C:\\Users\\IDEA3C\\Documents\\work\\20211014\\ASP.NET-Core-RESTfulAPI-API-Version-Control\\TodoAPI\\TodoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IDEA3C\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\IDEA3C\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\IDEA3C\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\IDEA3C\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\IDEA3C\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

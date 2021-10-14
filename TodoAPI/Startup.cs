@@ -31,6 +31,10 @@ namespace TodoAPI
             // 資料庫配置
             var connection = @"Server=.\SQLExpress;Database=TodoDB;Trusted_Connection=True;ConnectRetryCount=0";
             services.AddDbContext<TodoDBContext>(options => options.UseSqlServer(connection));
+            
+            // 啟用API版控功能
+            services.AddApiVersioning();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
