@@ -47,7 +47,7 @@
 <tr>
 <td>GET</td>
 <td><code>{apiVersion}/api/version</code></td>
-<td>取得APU版本</td>
+<td>取得API版本</td>
 <td>無</td>
 <td>API版本</td>
 </tr>
